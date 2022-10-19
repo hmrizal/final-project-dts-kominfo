@@ -6,4 +6,4 @@ Terdapat 3 aplikasi sederhana, yaitu:
 2. spelling-checker
 3. youtube-downloader
 
-Jalankan masing-masing file Jupyter Notebook (.ipynb) dalam local Python machine/environment Anda (atau bisa juga dengan Anaconda, VSCode, dsb)
+Download/copy file Jupyter Notebook (.ipynb), lalu jalankan masing-masing file dalam local Python machine/environment Anda (atau bisa juga dengan Anaconda, VSCode, dsb)
